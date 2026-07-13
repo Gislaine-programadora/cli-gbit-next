@@ -4,11 +4,10 @@
   <img src="public/assets/logo.png" alt="GBIT NEXT" width="70%">
 </p>
 
-                           # ⚡ gbit-next
+                                                   # ⚡ gbit-next
+**Crie projetos Next.js completos e prontos pra rodar, em segundos.**
 
-      **Crie projetos Next.js completos e prontos pra rodar, em segundos.**
-
-       Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
+ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
 
 
 <p align="center">
