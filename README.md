@@ -16,9 +16,7 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 
 </div>
 
-<p align="center">
-  <img src="public/assets/logo.png" alt="GBIT NEXT" width="900">
-</p>
+
 
 <p align="center">
   <strong>Create Modern Next.js Applications</strong>
