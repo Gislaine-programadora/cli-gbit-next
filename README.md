@@ -42,11 +42,19 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 Troque o `src/app/page.tsx` pelo seu conteúdo e o projeto já é seu.
 
 
+
 ## 🚀 Uso
 
 ```bash
 npx gbit-next
 ```
+
+ou 
+
+```bash
+npm install -g gbit-next
+```
+
 
 
 O CLI vai perguntar:
