@@ -21,6 +21,11 @@ ou
 npx gbit-next
 ```
 
+## publicacao NPM
+
+- 📦 [NPM Package](https://www.npmjs.com/package/gbit-next)
+- 💻 [GitHub Repository](https://github.com/gislaine-programadora/gbit-next)
+
 
                                                    # ⚡ gbit-next
 **Crie projetos Next.js completos e prontos pra rodar, em segundos.**
