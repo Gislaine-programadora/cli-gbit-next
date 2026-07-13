@@ -1,0 +1,26 @@
+{
+  "name": "gbit-next",
+  "version": "1.0.0",
+  "description": "GBIT Next - Create modern Next.js applications",
+  "main": "bin/index.js",
+  "bin": {
+    "gbit-next": "./bin/index.js"
+  },
+  "type": "module",
+  "keywords": [
+    "nextjs",
+    "cli",
+    "react",
+    "gbit",
+    "typescript"
+  ],
+  "author": "Gislaine Cristina Lopes Fernandes",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.3",
+    "ora": "^8.2.0"
+  }
+}
