@@ -22,14 +22,20 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 
 🚀 Instalação e uso
 
-bashnpx gbit-next
+bash´´´
+npx gbit-next
+´´´
 
 Não precisa instalar nada antes — o npx já baixa e executa a versão mais recente.
 
 Se preferir instalar globalmente:
 
-bashnpm install -g gbit-next
-gbit-next
+bash´´´
+npm install -g gbit-next
+´´´
+bash´´´
+npx gbit-next
+´´´
 
 O CLI vai perguntar:
 
@@ -40,8 +46,13 @@ Template desejado
 
 E entrega tudo pronto:
 
-bashcd nome-do-projeto
+bash´´´
+cd nome-do-projeto
+´´´
+
+bash´´´´
 npm run dev
+´´´
 
 ✨ O que é
 
