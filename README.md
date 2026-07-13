@@ -95,7 +95,7 @@ MERCADOPAGO_ACCESS_TOKEN=sua_chave_aqui
 
 
 <p align="center">
-  <img src="assets/image.png" alt="Ecossistema GBIT" width="1000">
+  <img src="public/assets/image.png" alt="Ecossistema GBIT" width="1000">
 </p>
 
 ## 📄 Licença
