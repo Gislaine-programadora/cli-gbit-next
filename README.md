@@ -3,6 +3,14 @@
 <p align="center">
   <img src="public/assets/logo.png" alt="GBIT NEXT" width="70%">
 </p>
+       <p align="center">
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
+</p>
 
                                                    # ⚡ gbit-next
 **Crie projetos Next.js completos e prontos pra rodar, em segundos.**
