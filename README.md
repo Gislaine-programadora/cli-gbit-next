@@ -9,19 +9,6 @@
   <img src="https://img.shields.io/badge/LICENSE-MIT-4CAF50?style=for-the-badge" />
 </p>
 
-
-⚡ gbit-next
-
-Crie projetos Next.js completos e prontos pra rodar, em segundos.
-
-Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
-
-📦 Pacote no NPM · 💻 Repositório no GitHub
-
-
-
-
-
        
 <p align="center">
   <strong>Create Modern Next.js Applications</strong>
@@ -34,6 +21,19 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 
 
 ---
+        ## ⚡ gbit-next
+
+Crie projetos Next.js completos e prontos pra rodar, em segundos.
+
+Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
+
+
+📦 Pacote no NPM 
+
+## Links
+
+- 📦 [NPM Package](https://www.npmjs.com/package/gbit-next)
+- 💻 [GitHub Repository](https://github.com/gislaine-programadora/cli-gbit-next)
 
 ## ✨ O que é
 
@@ -41,15 +41,18 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 
 Troque o `src/app/page.tsx` pelo seu conteúdo e o projeto já é seu.
 
+
 ## 🚀 Uso
 
 ```bash
 npx gbit-next
 ```
 
+
 O CLI vai perguntar:
 1. **Nome do projeto**
 2. **Template** desejado
+   
 
 E entrega tudo pronto:
 
@@ -57,6 +60,7 @@ E entrega tudo pronto:
 cd nome-do-projeto
 npm run dev
 ```
+
 
 ## 📦 Templates disponíveis
 
@@ -70,14 +74,19 @@ npm run dev
 | **Vitrine Gbit** | Página de portfólio para suas próprias ferramentas |
 | **Blank Project** | Setup limpo (Next + TS + Tailwind), sem nenhum template aplicado |
 
+
+
 ## 🧩 Recursos inclusos
 
 - ⏰ **Relógio ao vivo** — hora e data atualizando em tempo real
 - 💱 **Cotações reais** — BTC, ETH, USD e EUR, atualizadas automaticamente (via CoinGecko + open.er-api, sem necessidade de chave de API)
 - 💳 **Pagamento Pix real** *(template SaaS)* — gera QR Code de verdade via Mercado Pago; basta configurar seu Access Token no `.env.local`
 - 🔐 **Login com Google** *(UI pronta)* — botão estilizado, pronto para conectar ao NextAuth
+  
 
 ## ⚙️ Configurando o Pix (template SaaS)
+
+
 
 Ao gerar um projeto com o template **SaaS**, um arquivo `.env.local` é criado automaticamente. Edite-o com sua chave do Mercado Pago:
 
@@ -87,18 +96,25 @@ MERCADOPAGO_ACCESS_TOKEN=sua_chave_aqui
 
 > Use uma chave de **teste** (`TEST-...`) para experimentar sem gerar cobranças reais.
 
+
 ## 🛠️ Stack gerada
+
+
 
 - [Next.js](https://nextjs.org/) (App Router)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - ESLint configurado
 
+  
+
 ## 🗺️ Roadmap
 
 - [ ] Mais templates (Blog, Portfólio, Landing Page)
 - [ ] Integração completa com NextAuth (Google login funcional)
 - [ ] Suporte a outros provedores de pagamento
+
+      
 
 ## 🤝 Ecossistema Gbit
 
