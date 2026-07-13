@@ -1,4 +1,4 @@
-![alt text](image-1.png)
+
 
 <p align="center">
   <img src="assets/logo.png" alt="GBIT NEXT" width="900">
