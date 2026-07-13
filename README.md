@@ -10,13 +10,6 @@
 
 Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
 
-[![npm version](https://img.shields.io/npm/v/gbit-next.svg)](https://www.npmjs.com/package/gbit-next)
-[![npm downloads](https://img.shields.io/npm/dt/gbit-next.svg)](https://www.npmjs.com/package/gbit-next)
-[![license](https://img.shields.io/npm/l/gbit-next.svg)](./LICENSE)
-
-</div>
-
-
 
 <p align="center">
   <strong>Create Modern Next.js Applications</strong>
