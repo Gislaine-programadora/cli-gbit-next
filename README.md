@@ -16,6 +16,27 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 
 </div>
 
+<p align="center">
+  <img src="public/assets/logo.png" alt="GBIT NEXT" width="900">
+</p>
+
+<p align="center">
+  <strong>Create Modern Next.js Applications</strong>
+</p>
+
+<p align="center">
+  CLI profissional para criar aplicações Next.js modernas em segundos.
+</p>
+
+<p align="center">
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
+
+</p>
+
 ---
 
 ## ✨ O que é
