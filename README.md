@@ -92,7 +92,7 @@ MERCADOPAGO_ACCESS_TOKEN=sua_chave_aqui
 | [`gbit-start`](https://github.com/Gislaine-programadora) | Abre qualquer projeto existente, instala dependências e entrega a URL pronta |
 
 
-![alt text](image-1.png)
+
 
 <p align="center">
   <img src="assets/image.png" alt="Ecossistema GBIT" width="1000">
