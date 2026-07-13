@@ -8,6 +8,18 @@
   <img src="https://img.shields.io/badge/NODE.JS-20+-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/LICENSE-MIT-4CAF50?style=for-the-badge" />
 </p>
+
+        ## 🚀 Instalação
+
+```bash
+npm install -g gbit-next
+```
+
+ou
+
+```bash
+npx gbit-next
+```
                                                    # ⚡ gbit-next
 **Crie projetos Next.js completos e prontos pra rodar, em segundos.**
 
