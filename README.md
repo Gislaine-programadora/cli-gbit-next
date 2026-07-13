@@ -18,51 +18,10 @@ Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao v
 
 📦 Pacote no NPM · 💻 Repositório no GitHub
 
-</div>
-
-🚀 Instalação e uso
-
-bash´´´
-npx gbit-next
-´´´
-
-Não precisa instalar nada antes — o npx já baixa e executa a versão mais recente.
-
-Se preferir instalar globalmente:
-
-bash´´´
-npm install -g gbit-next
-´´´
-bash´´´
-npx gbit-next
-´´´
-
-O CLI vai perguntar:
 
 
-Nome do projeto
-Template desejado
 
 
-E entrega tudo pronto:
-
-bash´´´
-cd nome-do-projeto
-´´´
-
-bash´´´´
-npm run dev
-´´´
-
-✨ O que é
-
-gbit-next é um CLI que gera um projeto Next.js + TypeScript + Tailwind já configurado e pronto pra rodar — sem tela em branco. Escolha um template, e o CLI entrega uma aplicação funcional de verdade: sidebar, componentes, dados de exemplo e (em alguns templates) recursos reais como pagamento via Pix.
-
-Troque o src/app/page.tsx pelo seu conteúdo e o projeto já é seu.
-
-📦 Templates disponíveis
-
-TemplateO que vem prontoDashboardSidebar + cards de métricas — ótimo ponto de partida para painéis administrativosEcommerceNavbar + grid de produtos com carrinhoSaaSLanding page + planos de assinatura + login com Google (UI) + pagamento Pix real via Mercado PagoCRMSidebar + tabela de contatos com statusERPSidebar + controle de estoqueVitrine GbitPágina de portfólio para suas próprias ferramentasBlank ProjectSetup limpo (Next + TS + Tailwind), sem nenhum template aplicado
        
 <p align="center">
   <strong>Create Modern Next.js Applications</strong>
