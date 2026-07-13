@@ -20,6 +20,8 @@ ou
 ```bash
 npx gbit-next
 ```
+
+
                                                    # ⚡ gbit-next
 **Crie projetos Next.js completos e prontos pra rodar, em segundos.**
 
