@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="public/assets/logo.png" alt="GBIT NEXT" width="50%">
+  <img src="public/assets/logo.png" alt="GBIT NEXT" width="70%">
 </p>
 
                            # ⚡ gbit-next
