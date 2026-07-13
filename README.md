@@ -9,30 +9,50 @@
   <img src="https://img.shields.io/badge/LICENSE-MIT-4CAF50?style=for-the-badge" />
 </p>
 
-        ## 🚀 Instalação
 
-```bash
-npm install -g gbit-next
-```
+⚡ gbit-next
 
-ou
+Crie projetos Next.js completos e prontos pra rodar, em segundos.
 
-```bash
-npx gbit-next
-```
+Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
 
-## publicacao NPM
+📦 Pacote no NPM · 💻 Repositório no GitHub
 
-- 📦 [NPM Package](https://www.npmjs.com/package/gbit-next)
-- 💻 [GitHub Repository](https://github.com/gislaine-programadora/CLI-gbit-next)
+</div>
+
+🚀 Instalação e uso
+
+bashnpx gbit-next
+
+Não precisa instalar nada antes — o npx já baixa e executa a versão mais recente.
+
+Se preferir instalar globalmente:
+
+bashnpm install -g gbit-next
+gbit-next
+
+O CLI vai perguntar:
 
 
-                                                   # ⚡ gbit-next
-**Crie projetos Next.js completos e prontos pra rodar, em segundos.**
-
- Templates reais para Dashboard, Ecommerce, SaaS, CRM e ERP — com relógio ao vivo, cotações de moedas em tempo real e pagamento Pix funcional via Mercado Pago.
+Nome do projeto
+Template desejado
 
 
+E entrega tudo pronto:
+
+bashcd nome-do-projeto
+npm run dev
+
+✨ O que é
+
+gbit-next é um CLI que gera um projeto Next.js + TypeScript + Tailwind já configurado e pronto pra rodar — sem tela em branco. Escolha um template, e o CLI entrega uma aplicação funcional de verdade: sidebar, componentes, dados de exemplo e (em alguns templates) recursos reais como pagamento via Pix.
+
+Troque o src/app/page.tsx pelo seu conteúdo e o projeto já é seu.
+
+📦 Templates disponíveis
+
+TemplateO que vem prontoDashboardSidebar + cards de métricas — ótimo ponto de partida para painéis administrativosEcommerceNavbar + grid de produtos com carrinhoSaaSLanding page + planos de assinatura + login com Google (UI) + pagamento Pix real via Mercado PagoCRMSidebar + tabela de contatos com statusERPSidebar + controle de estoqueVitrine GbitPágina de portfólio para suas próprias ferramentasBlank ProjectSetup limpo (Next + TS + Tailwind), sem nenhum template aplicado
+       
 <p align="center">
   <strong>Create Modern Next.js Applications</strong>
 </p>
